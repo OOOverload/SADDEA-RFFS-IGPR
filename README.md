@@ -1,5 +1,6 @@
-# 📘 Supplementary Figures for [Your Paper Title]
-﻿
+# 📘 Supplementary Figures for SADDEA-RFFS-IGPR
+
+
 This repository contains supplementary visualization materials for the paper:
 ﻿
 **"[Full Paper Title]"**
