@@ -3,7 +3,7 @@
 
 This repository contains supplementary visualization materials for the paper:
 ﻿
-**"[Full Paper Title]"**
+**"Self-adaptive data-driven evolutionary algorithm based on random forest feature selection and incremental Gaussian process regression on personalized antidepressant medication research"**
 ﻿
 To maintain clarity and reduce redundancy in the main manuscript, we retained only one representative sample per experiment. This repository provides the **full set of omitted figures** to ensure completeness and transparency.
 ﻿
